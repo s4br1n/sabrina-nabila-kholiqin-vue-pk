@@ -1,5 +1,8 @@
 # unjuk
 
+### Deployment Endpoint
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ## Project setup
 ```
 npm install
@@ -21,4 +24,10 @@ npm run lint
 ```
 
 ### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Wireframe
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Video 
 See [Configuration Reference](https://cli.vuejs.org/config/).
