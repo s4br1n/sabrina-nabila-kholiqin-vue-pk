@@ -1,7 +1,7 @@
-# unjuk
+# Unjuk Keterampilan : Strategi Programming Terstruktur dengan Vue JS
 
 ### Deployment Endpoint
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://vuejs-prakerja.vercel.app/
 
 ## Project setup
 ```
@@ -27,7 +27,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Wireframe
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Video 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://github.com/s4br1n/vue-prakerja/assets/71781191/c76db360-017c-47e5-a706-6770de8e84e1)
