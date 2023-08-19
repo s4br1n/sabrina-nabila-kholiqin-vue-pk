@@ -13,7 +13,6 @@
 
       <v-spacer></v-spacer>
 
-      <!-- Tampilkan v-btn hanya jika ukuran layar desktop -->
       <v-btn v-if="!isMobile" href="/" text>
         <v-icon>mdi-home-outline</v-icon>
         <span class="ml-2">Home</span>
@@ -22,8 +21,7 @@
         <v-icon>mdi-flash</v-icon>
         <span class="ml-2">Character</span>
       </v-btn>
-      
-      <!-- Tampilkan v-menu saat tombol tiga garis di klik -->
+    
       <v-menu v-if="isMobile" offset-y>
         <template v-slot:activator="{ on }">
           <v-btn icon v-on="on">
